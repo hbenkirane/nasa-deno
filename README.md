@@ -1,6 +1,9 @@
 # NASA Mission Control Deno Project
 ![demo.gif](demo.gif)
 
+
+# [Live Demo](https://nasa-launch-deno.herokuapp.com/index.html)
+
 ## Installation
 
 1. Ensure you have Deno installed: https://deno.land/. (used the version v1.21.1 in this project)
