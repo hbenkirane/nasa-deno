@@ -1,5 +1,5 @@
 # NASA Mission Control Deno Project
-
+![demo.gif](demo.gif)
 
 ## Installation
 
