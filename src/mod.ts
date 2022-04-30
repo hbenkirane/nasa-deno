@@ -4,7 +4,7 @@ import api from "./api.ts";
 
 const app = new Application();
 
-const PORT = 8000;
+const PORT = parseInt(Deno.env.get("PORT") ?? "8000");
 
 await log.setup({
   handlers: {
